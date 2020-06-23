@@ -12,7 +12,7 @@
  XGPushStatMTA版本号
  */
 
-#define MTA_SDK_VERSION @"2.5.4"
+#define MTA_SDK_VERSION @"2.5.5"
 
 #pragma mark - 接口监控相关数据结构
 /**
@@ -52,6 +52,15 @@ typedef NS_ENUM(NSInteger, XGPushStatMTAErrorCode) {
 
 #pragma mark - XGPushStatMTA统计功能相关接口
 @interface XGPushStatMTA : NSObject
+
+#pragma mark - 获取XGPushStatMTA版本号
+
+/**
+获取XGPushStatMTA版本号
+
+@return 返回XGPushStatMTA版本号
+*/
++ (NSString *)getSdkVersion;
 
 #pragma mark - 启动XGPushStatMTA
 

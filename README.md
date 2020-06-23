@@ -1,5 +1,19 @@
 ﻿TPNS iOS SDK ReleaseNote
 
+VERSION 1.2.7.1
+-------------------------------------------
+1. Reduced SDK startup time
+2. Added new callback interface in case of registration failure
+3. Optimized account and label interface
+4. Fixed known issues
+
+版本 1.2.7.1
+-------------------------------------------
+1. 减少 SDK 启动耗时
+2. 新增注册失败的回调接口
+3. 优化账号、标签接口
+4. 修复已知问题
+
 VERSION 1.2.6.1
 -------------------------------------------
 1. Improve stability, fix known issues caused by SDK
