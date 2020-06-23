@@ -1,4 +1,4 @@
-﻿TPNS iOS SDK ReleaseNote
+﻿TPNS iOS SDK 更新日志
 
 VERSION 1.2.7.1
 -------------------------------------------
